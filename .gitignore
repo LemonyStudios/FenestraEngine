@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs/FenestraEngine/v15
+/.vs/FenestraEngine/v15
+/.vs/FenestraEngine/v15/.suo
+*.suo
+/.vs/FenestraEngine/v15/Browse.VC.opendb
