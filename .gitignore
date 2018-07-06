@@ -35,3 +35,6 @@
 /.vs/FenestraEngine/v15/.suo
 *.suo
 /.vs/FenestraEngine/v15/Browse.VC.opendb
+/FenestraEngine/Debug
+/FenestraEngine/Release
+/Debug
